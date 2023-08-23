@@ -42,7 +42,7 @@ Moody PhysioNet Challenge 2022
 }
 ```
 
-[2] LCNN Model
+[2] Application of LCNN model to PCG data.
 ```
 @inproceedings{lee2022deep,
   title={Deep Learning Based Heart Murmur Detection Using Frequency-time Domain Features of Heartbeat Sounds},
