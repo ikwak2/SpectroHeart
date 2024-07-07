@@ -15,7 +15,6 @@ import pandas as pd
 import numpy as np
 import tensorflow
 
-
 class Generator0():
     def __init__(self, X_train, y_train, batch_size=32, beta_param=0.2, mixup = True, lowpass = False, highpass = False, ranfilter2 = False, shuffle=True, datagen=None, chaug = False, cout = False):
         self.X_train = X_train
@@ -276,5 +275,3 @@ class Generator0():
             y = y1 * y_l + y2 * (1 - y_l)
 
         return X, y
-    
-    
