@@ -1,4 +1,4 @@
-## MCHeart: Multi-channel based heart signal processing scheme for heart noise detection using deep learning
+## Participation of [Heart murmur detection challenge (2022 PhysioNet Challenge)](https://moody-challenge.physionet.org/)
 <!--
 This repository contains the source for a manuscript to appear in ...
 
@@ -7,7 +7,7 @@ This repository contains the source for a manuscript to appear in ...
 ---
 -->
 
-This repository provides the overall framework for training and evaluating heart murmur detection systems proposed in 'MCHeart: Multi-channel based heart signal processing scheme for heart noise detection using deep learning'
+This repository contains the code from our team's participation in the 2022 heart murmur detection competition, as well as the code related to the extended work published in our subsequent paper, "SpectroHeart: A Deep Neural Network Approach to Heart Murmur Detection Using Spectrogram and Peak Interval Features." 
 
 ## Data Access  
 The training data of the George B. Moody PhysioNet Challenge 2022 can be downloaded from [PhysioNet](https://physionet.org/content/circor-heart-sound/1.0.3/) [1]. You can also download it directly using this [link](https://physionet.org/static/published-projects/circor-heart-sound/the-circor-digiscope-phonocardiogram-dataset-1.0.3.zip) or the following command:
@@ -24,7 +24,8 @@ Here's a description of the files:
 
 ## Useful links
 * [The George B. Moody PhysioNet Challenge 2022 website](https://moody-challenge.physionet.org/2022/)
-* [Scoring code](https://github.com/physionetchallenges/evaluation-2022)
+* [baseline code from the challenge](https://github.com/physionetchallenges/python-classifier-2022)
+* [evaluation code from the challenge](https://github.com/physionetchallenges/evaluation-2022)
 
 ## References
 [1] Heart Murmur Detection from Phonocardiogram Recordings: The George B.
