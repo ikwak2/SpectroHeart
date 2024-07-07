@@ -26,6 +26,8 @@ Here's a description of the files:
 * [The George B. Moody PhysioNet Challenge 2022 website](https://moody-challenge.physionet.org/2022/)
 * [baseline code from the challenge](https://github.com/physionetchallenges/python-classifier-2022)
 * [evaluation code from the challenge](https://github.com/physionetchallenges/evaluation-2022)
+* [Results for the 2022 challenge](https://moody-challenge.physionet.org/2022/results/)
+* [The site](https://physionet.org/static/published-projects/challenge-2022/1.0.0/sources/) provides source code from the teams that participated in the competition.
 
 ## References
 [1] Heart Murmur Detection from Phonocardiogram Recordings: The George B.
