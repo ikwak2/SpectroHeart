@@ -1,4 +1,4 @@
-## Participation of [Heart murmur detection challenge (2022 PhysioNet Challenge)](https://moody-challenge.physionet.org/)
+# Participation of [Heart murmur detection challenge (2022 PhysioNet Challenge)](https://moody-challenge.physionet.org/)
 <!--
 This repository contains the source for a manuscript to appear in ...
 
