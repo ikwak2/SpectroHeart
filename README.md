@@ -24,13 +24,14 @@ Here's a description of the files:
 
 
 
-## Useful links
-* [The George B. Moody PhysioNet Challenge 2022 website](https://moody-challenge.physionet.org/2022/)
-* [Baseline code from the challenge](https://github.com/physionetchallenges/python-classifier-2022)
-* [Evaluation code from the challenge](https://github.com/physionetchallenges/evaluation-2022)
-* [Results for the 2022 challenge](https://moody-challenge.physionet.org/2022/results/)
-* [The link](https://physionet.org/static/published-projects/challenge-2022/1.0.0/sources/) provides source code from the teams that participated in the competition.
-* [PeakUtils package code](https://github.com/lucashn/peakutils?tab=readme-ov-file)
+## Useful Links
+- [The George B. Moody PhysioNet Challenge 2022 website](https://moody-challenge.physionet.org/2022/)
+- [Baseline code from the challenge](https://github.com/physionetchallenges/python-classifier-2022)
+- [Evaluation code from the challenge](https://github.com/physionetchallenges/evaluation-2022)
+- [Results for the 2022 challenge](https://moody-challenge.physionet.org/2022/results/)
+- [Source code from the teams that participated in the competition](https://physionet.org/static/published-projects/challenge-2022/1.0.0/sources/)
+- [PeakUtils package code](https://github.com/lucashn/peakutils?tab=readme-ov-file)
+- [The code that won 5th place](https://github.com/ikwak2/physionet_cau_umn_sub6/tree/main) [2]
 
 ## References
 [1] Heart Murmur Detection from Phonocardiogram Recordings: The George B.
