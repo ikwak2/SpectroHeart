@@ -18,9 +18,9 @@ wget -r -N -c -np https://physionet.org/files/circor-heart-sound/1.0.3/
 ## Description of the files
 Here's a description of the files:
 
-- evaluation-2022: 대회에서 제공한 평가 코드
-- `extract_features.ipynb`: 특징 추출하는 코드
-- `run_piSequence_piMean.py`: 논문 Table 7에서 PI sequence, PI mean 특징을 사용한 모델과 PI sequence, PI mean, Demographic 특징을 사용한 모델 실험 코드
+- evaluation-2022: Evaluation code provided by the competition
+- `extract_features.ipynb`: Code for extracting features
+- `run_piSequence_piMean.py`: Experimental code for models using PI sequence and PI mean features, and models using PI sequence, PI mean, and Demographic features as described in Table 7 of the paper
 
 
 
